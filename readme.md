@@ -45,6 +45,7 @@ To run the Akash-Vani app on your local system, follow these steps:
     Use a local server (e.g., Live Server in VS Code) for better performance.
 
 4. **Start Using the App**:
+
     Enter the name of a city in the search bar.
     View the current weather information for that city.
 
