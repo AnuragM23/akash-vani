@@ -1,8 +1,6 @@
 
 # [Akash-Vani](https://anuragm23.github.io/akash-vani/)
 
-## Introduction
-
 ![cover-picture](assets/coverPicture.png) 
 
 **Akash-Vani** is a weather web app that provides real-time weather information for any location worldwide. Built with HTML, CSS, and JavaScript, the app offers a user-friendly interface where users can search for weather updates by entering the name of a city. The app fetches and displays current weather conditions, including temperature, humidity, wind speed, and more, utilizing an external API for real-time data.
